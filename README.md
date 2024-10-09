@@ -1,6 +1,6 @@
-<img src="./assets/bg.png">
+<img src="bg.png">
 <h1 align="center">Hi, I'm Amrit Panta 😎</h1>
-<p align="center"><img src="./assets/amrit.png" width="150"></p>
+<p align="center"><img src="amrit.png" style="border-radius: 50%;"  width="150"></p>
 <h3 align="center">Problem Solver, Full-Stack Developer, AI Learner</h3>
 
 - 🔭 I’m currently working as a Full Stack Developer.
