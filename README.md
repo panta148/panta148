@@ -1,7 +1,7 @@
 ### Hello Guy's 👋
 
 
-- 🔭 Collection of React project.
+- 🔭 Collection of Frontend Project.
 - 🌱 I’m currently working on React as a Frontend Developer.
 - 👯 I’m looking to collaborate on other developer. 
 - 💬 Ask me about web development on react,django and many more
